@@ -1,1 +1,1 @@
-# Cookie Arena CTF Season 1 Files store
+CTF Files store
